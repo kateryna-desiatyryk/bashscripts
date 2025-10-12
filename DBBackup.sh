@@ -1,4 +1,5 @@
 #!/bin/bash
+# Мои добавления Kateryna
 USER="root"
 PASSWORD="PASS"
 HOST="HOST"
